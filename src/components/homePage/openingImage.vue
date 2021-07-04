@@ -2,7 +2,7 @@
    
        
             
-        <v-img src="@/assets/banner.png"
+        <v-img src="@/assets/banner.webp"
         class="pa-0"
          >
          

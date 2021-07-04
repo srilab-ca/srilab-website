@@ -11,7 +11,7 @@
           alt="SRIL Logo"
           class="shrink mr-2"
           contain
-          src="@/assets/Logo.png"
+          src="@/assets/logo.webp"
           transition="scale-transition"
           width="70"
         />
