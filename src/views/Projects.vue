@@ -9,6 +9,8 @@
 Learn how to design and build a gravity car through our three workshops led by university STEM students, and put your newly learned skills to the test in our Final Gravity Car Race, where 20 team submissions will be 3D printed by the SRIL team and competed on a racetrack. 
 
 Register by yourself or with a team of friends to win $30 in gift cards for attending the workshops, with additional cash prizes available for the Final Challenge! We are also excited to host a workshop in August featuring a Co-op student working at Tesla, so be sure to attend and learn all about their experience.
+  
+<b>All portions of this summer event are virtual, including the race which will be live-streamed.</b>
   </p>
 
   <p>
