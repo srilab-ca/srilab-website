@@ -7,7 +7,7 @@
         <div id="about-top">
             <div>
                 <h2>Who we are</h2>
-                <p>An non-profit organization dedicated to 
+                <p>A non-profit organization dedicated to 
                     mentoring and educating youth in robotics 
                     to discover their STEM potential.</p>
             </div>
@@ -39,8 +39,7 @@
   </p>
   <p>-With less than half of high achieving BC grade 12 graduates enrolling at a BC research university, the local talent pool is shrinking — more and more students with an aptitude for STEM are choosing to leave BC to pursue opportunities elsewhere.
   </p>
-  <p>-But are the youth who want to pursue STEM careers prepared?
-  </p>
+  
   <ol type="1">
   
    <h1>Our Goals</h1>
