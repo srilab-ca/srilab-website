@@ -51,6 +51,21 @@ export default {
           {
             src: require('../assets/Projects/car4.jpg'),
           },
+          {
+            src: require('../assets/Projects/car5.jpg'),
+          },
+          {
+            src: require('../assets/Projects/car6.jpg'),
+          },
+          {
+            src: require('../assets/Projects/car7.jpg'),
+          },
+          {
+            src: require('../assets/Projects/car8.jpg'),
+          },
+          {
+            src: require('../assets/Projects/car9.jpg'),
+          },
         ],
       }
     },
