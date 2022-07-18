@@ -1,7 +1,10 @@
 <template>
   <div>
-      <h1>Our Subteams</h1>
-
+    <div class="text-center">
+      <v-btn color="white" text rounded class="my-2" justify="center">
+        <a target="_blank" href="https://forms.gle/o67NyZPMf6NfjEfr9">Apply now</a>
+      </v-btn>
+    </div>
 
   <v-container class="grey lighten-5">
     <v-row no-gutters>
