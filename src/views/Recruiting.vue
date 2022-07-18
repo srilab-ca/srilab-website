@@ -2,7 +2,7 @@
   <div>
     <div class="text-center">
       <v-btn color="white" text rounded class="my-2" justify="center">
-        <a target="_blank" href="https://forms.gle/o67NyZPMf6NfjEfr9">Apply now</a>
+        <a target="_blank" href="https://forms.gle/9F2TvwHcewbDNapD9">Apply now</a>
       </v-btn>
     </div>
 
