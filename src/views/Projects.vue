@@ -1,37 +1,29 @@
 <template>
-<div>
-    <h1>Past Projects</h1>
-  <h2>
-    🏎️ SRIL Gravity Car Challenge! 🏎️
-  </h2>
-  
-  <p>
-For summer 2021, SRIL hosted the Gravity Car Challenge, a series of workshops about computer-aided design (CAD), 3D printing, and physics that culminated in a race in which participants' gravity car designs were 3D printed and raced down a track. Cars were judged based on a combination of their race time and design creativity. In addition, a guest speaker was invited for a special workshop about studying engineering at university.
-  
-  </p>
+  <div>
+    <h1>Current Project</h1>
+    <h2>
+      🚀 SRIL 2022 Planetary Exploration Challenge 🚀
+    </h2>
 
-  <h2>Gallery: </h2>
-  <p>Thank you to our participants for submitting your creative designs for the summer 2021 SRIL Gravity Car Challenge! Have a look at our gallery to see what everyone submitted!</p>
-  <v-container>
-  <v-carousel hide-delimiters>
-    <v-carousel-item
-      v-for="(item,i) in items"
-      :key="i"
-      :src="item.src"
-    ></v-carousel-item>
-  </v-carousel>
-  </v-container>
-  <h2>Results</h2>
-  <center>
-  <v-img src="@/assets/Projects/results.png"
-        max-height="800"
-       max-width="800"
-         >
-         
-        </v-img>
-  </center>
-  
-</div>
+    <p>
+      On a distant planet, a rover awaits your command to begin exploration of a new planet's surface! SRIL's 2022
+      Planetary Exploration challenge hopes to explore some of the objectives, and challenges faced by space agencies
+      when exploring the uncharted terrain of extraterrestrial bodies.
+    </p>
+
+    <div class="text-center">
+      <v-btn color="white" text rounded class="my-2" justify="center">
+        <a target="_blank" href="https://forms.gle/o67NyZPMf6NfjEfr9" class="title">Register now</a>
+      </v-btn>
+    </div>
+
+    <center>
+      <v-img src="@/assets/Projects/SPEC_Poster.png" contain max-height="80vh">
+
+      </v-img>
+    </center>
+
+  </div>
 </template>
 
 <script>
