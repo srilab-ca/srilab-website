@@ -66,7 +66,7 @@ Learn how to design and build a gravity car through our three workshops led by u
 Register by yourself or with a team of friends to win $30 in gift cards for attending the workshops, with additional cash prizes available for the Final Challenge! We are also excited to host a workshop in August featuring a Co-op student working at Tesla, so be sure to attend and learn all about their experience.
     </p>
     
-        <a target="_blank" href="src/viewsSRIL C2C Final Report 2021.pdf"> <v-btn color="blue darken-4" >View Report Here</v-btn></a>
+        <a target="_blank" href="/SRIL C2C Final Report 2021.pdf"> <v-btn color="blue darken-4" >View Report Here</v-btn></a>
         
         <center>
           <v-img src="@/assets/Projects/2021/Competition Winners-3.png" contain max-height="50vh">
