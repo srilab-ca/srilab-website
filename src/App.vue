@@ -1,13 +1,10 @@
 <template>
-
   <v-app>
-         
-
-    <ToolBar/>
+    <ToolBar />
     <v-content>
-      <router-view/>
+      <router-view />
     </v-content>
-    <Footer/>
+    <Footer />
   </v-app>
 </template>
 
@@ -16,14 +13,11 @@ import Footer from "./components/Footer";
 import ToolBar from "./components/ToolBar";
 
 export default {
-  name: 'App',
-components: {
-    
+  name: "App",
+  components: {
     Footer,
     ToolBar,
-
   },
-
 
   data: () => ({
     //
