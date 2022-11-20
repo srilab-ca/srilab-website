@@ -10,16 +10,22 @@
       when exploring the uncharted terrain of extraterrestrial bodies.
     </p>
 
-    <div class="text-center">
-      <v-btn color="white" text rounded class="my-2" justify="center">
-        <a
-          target="_blank"
-          href="https://forms.gle/o67NyZPMf6NfjEfr9"
-          class="title"
-          >Register now</a
-        >
-      </v-btn>
-    </div>
+    <p>
+      SRIL hosted 3 workshops on space exploration, programming, and robotics,
+      as well as a final robotics competition. Through the workshops,
+      participants learn how to program a robot to navigate the Martian terrain
+      in order to collect samples for research. SRIL built a custom robot arena
+      that simulates the Martian environment. The participants did a great job
+      programming their robot to navigate the Martian maze!
+
+      <a
+        target="_blank"
+        href="https://www.youtube.com/watch?v=0ns-P3Y0aAA&list=PLZY4j3TBPfJ2sv7hl1YAZZvsCXzR2HNC0"
+      >
+        Watch it on Youtube!
+      </a>
+    </p>
+
     <v-layout row wrap>
       <v-spacer></v-spacer>
       <v-flex md2 sm12 xs12>
@@ -72,11 +78,19 @@
       prizes available for the Final Challenge! We are also excited to host a
       workshop in August featuring a Co-op student working at Tesla, so be sure
       to attend and learn all about their experience.
-    </p>
 
-    <a target="_blank" href="/SRIL C2C Final Report 2021.pdf">
-      <v-btn color="blue darken-4">View Report Here</v-btn></a
-    >
+      <br />
+      <a target="_blank" href="/SRIL C2C Final Report 2021.pdf">
+        View detailed project report
+      </a>
+      <br />
+      <a
+        target="_blank"
+        href="https://www.youtube.com/watch?v=a-xmC_14WYA&list=PLZY4j3TBPfJ3mw0lRzM7itrHR3yNQ9dWU"
+      >
+        Watch it on Youtube!
+      </a>
+    </p>
 
     <center>
       <v-img
@@ -128,6 +142,69 @@
       >
       </v-img>
     </center>
+
+    <h2>2020 SRIL STEM Workshop Series</h2>
+
+    <P>
+      During the COVID-19 Pandemic, SRIL hosted 3 STEM Workshops led by UBC
+      professors, alumni, and students. The workshops include UAV Mechatronics
+      Engineering, 3D Printing & CAD, and Leadership in EDI. Over 200
+      university, high school and elementary students attended these workshops.
+
+      <br />
+
+      <a target="_blank" href="/SRIL C2C Final Report 2020.pdf">
+        View detailed project report
+      </a>
+      <br />
+      <a
+        target="_blank"
+        href="https://www.youtube.com/watch?v=aGZRlvhvw8g&list=PLZY4j3TBPfJ2uwQiXK-iEl3CxvqgFDXBj"
+      >
+        Watch it on Youtube!
+      </a>
+    </P>
+
+    <v-layout row wrap>
+      <v-spacer></v-spacer>
+      <v-flex md2 sm12 xs12>
+        <v-img src="@/assets/Projects/2020/1.png" contain max-height="40vh">
+        </v-img>
+      </v-flex>
+      <v-spacer></v-spacer>
+      <v-flex md2 sm12 xs12>
+        <v-img src="@/assets/Projects/2020/3.png" contain max-height="40vh">
+        </v-img>
+      </v-flex>
+      <v-spacer></v-spacer>
+      <v-flex md2 sm12 xs12>
+        <v-img src="@/assets/Projects/2020/5.png" contain max-height="40vh">
+        </v-img>
+      </v-flex>
+      <v-spacer></v-spacer>
+    </v-layout>
+    <br />
+
+    <v-layout row wrap>
+      <v-spacer></v-spacer>
+      <v-flex md2 sm12 xs12>
+        <v-img src="@/assets/Projects/2020/2.png" contain max-height="40vh">
+        </v-img>
+      </v-flex>
+      <v-spacer></v-spacer>
+      <v-flex md2 sm12 xs12>
+        <v-img src="@/assets/Projects/2020/4.png" contain max-height="40vh">
+        </v-img>
+      </v-flex>
+      <v-spacer></v-spacer>
+      <v-flex md2 sm12 xs12>
+        <v-img src="@/assets/Projects/2020/6.png" contain max-height="40vh">
+        </v-img>
+      </v-flex>
+      <v-spacer></v-spacer>
+    </v-layout>
+    <br />
+
     <h2>UBC Geering Up x SRIL: Robotics Today (All-Girls Grade 9)</h2>
 
     <p>
